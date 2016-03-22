@@ -1,4 +1,4 @@
-typography_spectrum: 0.04818461532704532
+name: Noreg Bygg
 opengraph:
   image: null
   type: null
@@ -9,32 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-layout_spectrum: 0.1590250171720982
-cta:
-  bucket: null
-  version: null
-  domain: null
-color:
-  saturation: 0.6027312825899571
-  brandStrength: 0.5848541925661266
-  rhythmicContrast: 0.3374078196939081
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  lightness: 0.9331481889821589
 purpose: []
-favicon: null
+color:
+  saturation: 0.6923559
+  brandStrength: 0.6290727
+  lightness: 0.5294486
+  brandColors:
+    - '#FFFFFF'
+    - '#5C667F'
+    - '#88644C'
+    - '#27150D'
+    - '#C5C6D1'
+  rhythmicContrast: 0.5
+typography_spectrum: 0.3157895
+layout_spectrum: 0.3258145
 analytics:
   twitter: null
   google: null
   facebook: null
-name: Noreg Bygg
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
