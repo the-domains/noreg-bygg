@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Noreg Bygg]]></title>
         <description><![CDATA[Noreg Bygg]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/noreg-bygg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 22:48:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 22:48:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/noreg-bygg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7029390c-5a70-4922-84f6-4a4bc1602a55.png">]]></description>
+            <link>https://thegrid.ai/noreg-bygg/f7b13bf7-7475-4873-97f3-0fe561bc1ad6/index.html</link>
+            <guid isPermaLink="false">f7b13bf7-7475-4873-97f3-0fe561bc1ad6</guid>
+            <pubDate>Tue, 22 Mar 2016 22:48:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Uteplassen din skal være både praktisk og vakker. Ved å velge Noreg Bygg for ditt nye terrasse prosjektet har du garantert deg det høyeste kvalitetet i design og utført arbeid.</p>]]></description>
-            <link>undefineduteplassen-din-skal-vaere-bade-praktisk-og-vakker-ved-a-velg/index.html</link>
+            <link>https://thegrid.ai/noreg-bygg/uteplassen-din-skal-vaere-bade-praktisk-og-vakker-ved-a-velg/index.html</link>
             <guid isPermaLink="false">5dd2fa51-0b47-46d6-a19b-c3707792e970</guid>
             <pubDate>Tue, 22 Mar 2016 22:48:52 GMT</pubDate>
         </item>
