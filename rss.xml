@@ -4,8 +4,15 @@
         <description><![CDATA[Noreg Bygg]]></description>
         <link>https://thegrid.ai/noreg-bygg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 22:54:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 22:54:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/noreg-bygg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Uteplassen din skal være både praktisk og vakker. Ved å velge Noreg Bygg for ditt nye terrasse prosjektet har du garantert deg det høyeste kvalitetet i design og utført arbeid.</p>]]></description>
+            <link>https://thegrid.ai/noreg-bygg/uteplassen-din-skal-vaere-bade-praktisk-og-vakker-ved-a-velg/index.html</link>
+            <guid isPermaLink="false">5dd2fa51-0b47-46d6-a19b-c3707792e970</guid>
+            <pubDate>Tue, 22 Mar 2016 22:54:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abca3dfe-1338-49d0-ae8f-51842c226ae7.png">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/noreg-bygg/f7b13bf7-7475-4873-97f3-0fe561bc1ad6/index.html</link>
             <guid isPermaLink="false">f7b13bf7-7475-4873-97f3-0fe561bc1ad6</guid>
             <pubDate>Tue, 22 Mar 2016 22:54:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Uteplassen din skal være både praktisk og vakker. Ved å velge Noreg Bygg for ditt nye terrasse prosjektet har du garantert deg det høyeste kvalitetet i design og utført arbeid.</p>]]></description>
-            <link>https://thegrid.ai/noreg-bygg/uteplassen-din-skal-vaere-bade-praktisk-og-vakker-ved-a-velg/index.html</link>
-            <guid isPermaLink="false">5dd2fa51-0b47-46d6-a19b-c3707792e970</guid>
-            <pubDate>Tue, 22 Mar 2016 22:48:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
