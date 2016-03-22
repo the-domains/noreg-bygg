@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Noreg Bygg]]></title>
+        <description><![CDATA[Noreg Bygg]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 22:48:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Uteplassen din skal være både praktisk og vakker. Ved å velge Noreg Bygg for ditt nye terrasse prosjektet har du garantert deg det høyeste kvalitetet i design og utført arbeid.</p>]]></description>
+            <link>undefineduteplassen-din-skal-vaere-bade-praktisk-og-vakker-ved-a-velg/index.html</link>
+            <guid isPermaLink="false">5dd2fa51-0b47-46d6-a19b-c3707792e970</guid>
+            <pubDate>Tue, 22 Mar 2016 22:48:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
